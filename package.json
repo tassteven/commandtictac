@@ -2,5 +2,8 @@
   "name": "commandtictac",
   "scripts": {
     "start": "node tictactoe.js"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
   }
 }
