@@ -5,12 +5,8 @@ console.log(
 );
 prompt.start();
  
-  // Get two properties from the user: username and email
-  //
   prompt.get('start', function (err, result) {
-    //
-    // Log the results.
-    //
+
     if (result.start === 'yes') {
       console.log('Starting Game!');
       console.log(`
