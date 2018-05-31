@@ -1,0 +1,6 @@
+{
+  "name": "commandtictac",
+  "scripts": {
+    "start": "node tictactoe.js"
+  }
+}
